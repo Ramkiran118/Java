@@ -46,3 +46,8 @@ public class QuickSort {
     }
     
 }
+// Time COmplexity :
+// Average case = O ( n log n )
+// worst case = O(n^2)  --> Worst case occures when pivot is always the smallest or the largest element.
+    
+
