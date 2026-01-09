@@ -55,7 +55,8 @@ public class MergeSort {
     }
     
 }
-// Time complexity  : O [n log n)
+
+// Time complexity  : O (n log n)
     
 
 
